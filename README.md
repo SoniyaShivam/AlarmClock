@@ -1,2 +1,2 @@
-# CodSoft-Task2-
+# CodSoft-AlarmClock
 Alarm Clock App
